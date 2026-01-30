@@ -1,0 +1,2 @@
+You can drag any image onto the run.bat file to create an icon from that image.
+Create a shortcut on your desktop to the .bat file for ease of use or run the install.ps1 script to create one automatically
